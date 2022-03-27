@@ -1,4 +1,4 @@
-hello git! 2.0
+hello git! 2.0 it is a hot-fix version.
 hello git!
 hello git!
 hello git!
