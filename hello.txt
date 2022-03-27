@@ -1,5 +1,5 @@
 hello git! 2.0 it is a hot-fix version.
-hello git! it is master.
+hello git! 
 hello git!
 hello git!
 hello git!
